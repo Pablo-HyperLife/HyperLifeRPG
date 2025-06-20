@@ -1,0 +1,5 @@
+<map>
+    <object id="pc_fence" model="1426" posX="2243" posY="186" posZ="10.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="pc_crate" model="1439" posX="2246" posY="184" posZ="10.8" rotX="0" rotY="0" rotZ="20"></object>
+    <object id="pc_bin" model="1280" posX="2247" posY="187" posZ="10.8" rotX="0" rotY="0" rotZ="0"></object>
+</map>

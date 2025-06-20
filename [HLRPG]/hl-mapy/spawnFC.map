@@ -1,0 +1,5 @@
+<map>
+    <object id="fc_cactus_1" model="729" posX="-327" posY="940" posZ="25.4" rotX="0" rotY="0" rotZ="45"></object>
+    <object id="fc_barrel" model="1225" posX="-324" posY="941" posZ="25.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="fc_bench" model="1281" posX="-323" posY="938" posZ="25.4" rotX="0" rotY="0" rotZ="90"></object>
+</map>

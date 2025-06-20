@@ -1,0 +1,5 @@
+<map>
+    <object id="lv_busstop_sign" model="1294" posX="2033" posY="2374" posZ="10.8" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="lv_bench" model="1281" posX="2033.5" posY="2373" posZ="10.8" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="lv_potted_plant" model="1313" posX="2036" posY="2370" posZ="10.8" rotX="0" rotY="0" rotZ="0"></object>
+</map>

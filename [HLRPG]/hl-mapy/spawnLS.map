@@ -1,0 +1,22 @@
+<map>
+    <object id="LODstationb1" model="955" posX="1629.8999" posY="-2268.19995" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="vgs_stationceil" model="1046" posX="1629.8999" posY="-2268.19995" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="VgsE_vgn_steps" model="1161" posX="1629.8999" posY="-2268.19995" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="VgsE_stationlight1" model="1054" posX="1629.8999" posY="-2268.19995" posZ="13.8" rotX="0" rotY="0" rotZ="270"></object>
+    
+    <object id="bench_1" model="1281" posX="1626.5" posY="-2275.3" posZ="13.9" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="bench_2" model="1281" posX="1626.5" posY="-2261.2" posZ="13.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="bench_3" model="1281" posX="1632.5" posY="-2258.5" posZ="13.9" rotX="0" rotY="0" rotZ="270"></object>
+
+    <object id="bin_1" model="1280" posX="1625" posY="-2276" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="bin_2" model="1280" posX="1625" posY="-2260.5" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="vending_machine" model="1300" posX="1625.2" posY="-2280.1" posZ="13.9" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="fire_hydrant" model="1279" posX="1634" posY="-2278" posZ="13.6" rotX="0" rotY="0" rotZ="0"></object>
+    
+    <object id="barrier_1" model="1275" posX="1635.5" posY="-2258.5" posZ="13.6" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="barrier_2" model="1275" posX="1635.5" posY="-2278.5" posZ="13.6" rotX="0" rotY="0" rotZ="90"></object>
+
+    <object id="notice_board" model="1295" posX="1633" posY="-2279.5" posZ="13.6" rotX="0" rotY="0" rotZ="180"></object>
+
+    <object id="light_source" model="1325" posX="1626.5" posY="-2270" posZ="18" rotX="0" rotY="0" rotZ="0" doublesided="true"></object>
+</map>

@@ -1,0 +1,15 @@
+<meta>
+    <info name="HLRPG Gamemode" author="TwójNick" version="1.0.0" type="gamemode" />
+
+    <include resource="hl-core" />
+    <include resource="hl-modules/systemlogowania" />
+    <include resource="hl-modules/spawny" />
+    <include resource="hl-modules/scoreboard" />
+    <include resource="hl-modules/hud" />
+    <include resource="hl-modules/adminsystem" />
+    
+    <map src="hl-mapy/spawnLS.map" dimension="0"></map>
+    <map src="hl-mapy/spawnFC.map" dimension="0"></map>
+    <map src="hl-mapy/spawnPC.map" dimension="0"></map>
+    <map src="hl-mapy/spawnLV.map" dimension="0"></map>
+</meta>

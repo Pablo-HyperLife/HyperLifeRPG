@@ -1,0 +1,10 @@
+<meta>
+    <info name="HLRPG Core" author="TwójNick" type="script" />
+    <script src="db.lua" type="server" />
+    <script src="core_server.lua" type="server" />
+    <script src="chat_core.lua" type="server" />
+    <script src="commands_core.lua" type="server" />
+
+    <export function="dbQuery" type="server" />
+    <export function="dbExec" type="server" />
+</meta>

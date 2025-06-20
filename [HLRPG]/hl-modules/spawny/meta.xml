@@ -1,0 +1,5 @@
+<meta>
+    <script src="spawn_client.lua" type="client" cache="false" />
+    <script src="spawn_server.lua" type="server" />
+    <file src="../hl-assets/tlo_spawn.png" />
+</meta>

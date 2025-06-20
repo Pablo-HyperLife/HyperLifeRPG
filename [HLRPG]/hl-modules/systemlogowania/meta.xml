@@ -1,0 +1,8 @@
+<meta>
+    <info name="HLRPG Login System" author="TwójNick" type="script" />
+    <script src="login_client.lua" type="client" cache="false" />
+    <script src="login_server.lua" type="server" />
+
+    <import function="hl-core.dbQuery" type="server" />
+    <import function="hl-core.dbExec" type="server" />
+</meta>

@@ -1,0 +1,8 @@
+<meta>
+    <info name="HLRPG Admin System" author="TwójNick" type="script" />
+    <script src="admin_server.lua" type="server" />
+    <script src="admin_client.lua" type="client" cache="false" />
+
+    <import function="hl-core.dbQuery" type="server" />
+    <import function="hl-core.dbExec" type="server" />
+</meta>
